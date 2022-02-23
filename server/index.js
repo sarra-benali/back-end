@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 
-app.get('/',(req,res)=>{
+app.get('/login',(req,res)=>{
     res.send('hello')
 })
 
