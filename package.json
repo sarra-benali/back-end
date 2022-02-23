@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Radhidev/back-end#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
     "generate-gitignore": "^0.2.6",
     "heroku": "^7.59.2",
     "nodemon": "^2.0.15"
